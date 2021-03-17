@@ -1,0 +1,37 @@
+[
+    {
+        "id": "0.28164673072690524",
+        "title": "Harry Potter ja Azkabani vang   ",
+        "imageUrl": "https://varrak.ee/wp-content/uploads/2017/06/raamat-harry-potter-ja-azkabani-vang-iii-osa.jpg   ",
+        "price": " 11 ",
+        "description": "III osa   "
+    },
+    {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "imageUrl": "https://i5.walmartimages.com/asr/0a641b4f-33c3-4b81-8995-6faaaca606cf.3792f93a2c3075c55c1d61556ebb4986.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff",
+        "price": "24",
+        "description": "II part",
+        "id": "0.56164673072690524"
+    },
+    {
+        "title": "Harry Potter ja tulepeeker",
+        "imageUrl": "https://meedia.apollo.ee/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/9/7/9789985335130_1.jpg",
+        "price": "25",
+        "description": "IV osa",
+        "id": "0.25164673072690524"
+    },
+    {
+        "id": "0.7372081617967319",
+        "title": "Harry 1",
+        "imageUrl": " https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg          ",
+        "price": "24",
+        "description": "I osa"
+    },
+    {
+        "id": "0.36137863310288143",
+        "title": "Harry 2",
+        "imageUrl": " https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg          ",
+        "price": "16",
+        "description": "II osa"
+    }
+]
